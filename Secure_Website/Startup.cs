@@ -15,6 +15,9 @@ using Microsoft.Extensions.Hosting;
 
 namespace Secure_Website
 {
+    /// <summary>
+    /// This is my startup code
+    /// </summary>
     public class Startup
     {
         public Startup(IConfiguration configuration)
